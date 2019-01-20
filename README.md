@@ -15,7 +15,7 @@ The **default** recipe will:
 Requirements
 ------------
 
-* Depends on **opscode/java** and **opscode/ark** cookbooks
+* Depends on **opscode/ark** cookbooks
 
 Attributes
 ----------
